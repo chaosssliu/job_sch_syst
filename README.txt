@@ -9,7 +9,7 @@ To run the program in an IDE, such as Eclipse
 
 1. Go to File->Import
 2. Select Existing Projects into Workspace
-3. Click the radio button enxt to Select archive file and click the Browse button 
+3. Click the radio button next to Select archive file and click the Browse button 
 4. Find the archive file on your hard disk. Click oopen to select it.
 5. If you have selected on archive file containing an entire Eclipse project, the project
    name will appear in the white box.
