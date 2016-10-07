@@ -7,20 +7,20 @@ Two options for running the examples
 
 To run the program in an IDE, such as Eclipse
 
-1. Go to File->Import
-2. Select Existing Projects into Workspace
-3. Click the radio button next to Select archive file and click the Browse button 
-4. Find the archive file on your hard disk. Click oopen to select it.
+1. Go to File->Import.
+2. Select Existing Projects into Workspace.
+3. Click the radio button next to Select archive file and click the Browse button.
+4. Find the archive file on your hard disk. Click open to select it.
 5. If you have selected on archive file containing an entire Eclipse project, the project
    name will appear in the white box.
 6. Click finish to perform the import.
 
 ---- COMPILE AND RUN ON THE COMMAND LINE ----
 
-1. Run Command Prompt
-2. Type the directory that contain the .java file
-3. Type the javac and the name of file.java command to compile it
-4. Type java and the the name of the file to excute the program
+1. Run Command Prompt.
+2. Type the directory that contain the .java file.
+3. Type the javac and the name of file.java command to compile it.
+4. Type java and the the name of the file to excute the program.
 
 ----- Direction ----
 1. After running the program a prompt will display in the console"
