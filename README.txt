@@ -3,7 +3,7 @@ Name: Shashi Liu
 
 Two options for running the examples
 
-----RUN IN AN IDE ----
+---- RUN IN AN IDE ----
 
 To run the program in an IDE, such as Eclipse
 
