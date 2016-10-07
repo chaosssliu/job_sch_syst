@@ -33,9 +33,11 @@ Please enter the number of machines or -1 to quit:"
 3. If the input is invalid it will ask you to enter the number of machines again until the
    input is valid.
 
-4. After entering a valid number of machine the total number of jobs scheduled,    unscheduled, and the jobs assigned to each machines will be displayed in the console.
+4. After entering a valid number of machine the total number of jobs scheduled,
+   unscheduled, and the jobs assigned to each machines will be displayed in the console.
 
-5. After the jobs are scheduled a prompt will be displayed in the console asking for      number of machines again. 
+5. After the jobs are scheduled a prompt will be displayed in the console asking for
+   number of machines again. 
 
 6. Enter -1 to quit the program.
 
